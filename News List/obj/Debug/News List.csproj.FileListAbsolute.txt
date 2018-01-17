@@ -1,0 +1,73 @@
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\ApplicationInsights.config
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\csc.exe
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\csc.exe.config
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\csc.rsp
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\csi.exe
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\csi.rsp
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\System.AppContext.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\vbc.exe
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\vbc.exe.config
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\vbc.rsp
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\News List.dll.config
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\News List.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\News List.pdb
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Antlr3.Runtime.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\EntityFramework.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\EntityFramework.SqlServer.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.AI.Web.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Newtonsoft.Json.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.Helpers.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.Mvc.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.Optimization.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.Razor.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.WebPages.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\WebGrease.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\EntityFramework.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\EntityFramework.SqlServer.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.Helpers.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.Mvc.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.Optimization.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.Razor.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.WebPages.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Antlr3.Runtime.pdb
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Newtonsoft.Json.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\Microsoft.AI.Web.xml
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\obj\Debug\News List.csprojResolveAssemblyReference.cache
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\obj\Debug\News List.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\obj\Debug\News List.pdb
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\AutoMapper.dll
+C:\Users\Kuptsova.M\Documents\Visual Studio 2017\Projects\News List\News List\bin\AutoMapper.xml

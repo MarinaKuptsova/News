@@ -1,0 +1,16 @@
+﻿@model IEnumerable<News_List.Models.NewsItem>
+<table id="news-list" class="table">
+    <tr>
+        <th>Название</th>
+        <th>Тема</th>
+        <th>Содержание</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.ActionLink(item.Name, "NewsEdit", new {id = item.Id})</td>
+            <td>@Html.DisplayFor(modelItem => item.ThemeName)</td>
+            <td>@Html.DisplayFor(modelItem => item.Contents)</td>
+        </tr>
+    }
+</table>

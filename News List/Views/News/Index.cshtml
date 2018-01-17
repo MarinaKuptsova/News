@@ -1,0 +1,38 @@
+﻿@model News_List.Models.IndexViewModel
+@using News_List.Helpers
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<script>
+    function Search() {
+        debugger;
+
+        $.ajax({
+            type: "GET",
+            url: '@Url.Action("Search")',
+            datatype: 'json',
+            contenttype: 'application/json',
+            data: { searchText: $('#input-text').val() },
+            success:function(xhr) {
+                $('#news-list').html(xhr);
+            }
+        });
+    }
+</script>
+<p>
+    <br/>
+    <input type="button" class="btn btn-primary" value="Создать новость" 
+           onclick="location.href='@Url.Action("CreateNews", "News")'" />
+    
+        <input type="text" id="input-text" />
+        <input type="button" onclick="Search()" value="Найти" />
+</p>
+
+@Html.Partial("ListNews", Model.News)
+
+<br/>
+<div class="btn-group">
+    @Html.PageLinks(Model.PageInfo, x => Url.Action("Index", new {page = x}))
+</div>
+
